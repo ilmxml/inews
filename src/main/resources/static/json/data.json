@@ -1,0 +1,24 @@
+{
+  "newsCategory":[
+    {
+      "id":"0",
+      "category":"头条"
+    },
+    {
+      "id":"1",
+      "category":"娱乐"
+    },
+    {
+      "id":"2",
+      "category":"体育"
+    },
+    {
+      "id":"3",
+      "category":"财经"
+    },
+    {
+      "id":"4",
+      "category":"军事"
+    }
+  ]
+}
